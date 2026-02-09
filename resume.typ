@@ -82,8 +82,8 @@
           subTitleEnd: "(Dec 2015 – till date)",
           content: [
             #list(
-              [Designed and implemented complex systems for Global Technology and Markets division, using Microservices architecture.],
-              [Led the *end-to-end design, implementation, and validation* of workflows, partnering with security engineers and PMs to ensure *correctness, scalability, and production readiness*.],
+              [Designed and implemented *complex systems* for Global Technology and Markets division, using Microservices architecture.],
+              [Led the *end-to-end design, implementation, and validation* of workflows, partnering with multiple teams to ensure *correctness, scalability, and production rollout & support*.],
               [*Technologies:* ReactJS, TypeScript, Angular / AngularJS, JavaScript, HTML, Java 7 / 8, Jakarta EE (J2EE), Scala, Spring Cloud / Spring Boot, Spring JPA / Data / JDBC / Security / LDAP / Thymeleaf, OpenShift Containers, JSON, Sybase, SQL,Linux, VSCode / Eclipse / IntelliJ, Jenkins, Tomcat, Shell Script, Oracle, Microsoft SQL Server / Sybase, DB2.]
             )
           ],
@@ -96,7 +96,7 @@
         subSection(
           title: "C-DAC",
           titleEnd: "India",
-          subTitle: "Diploma in AdvancedComputing",
+          subTitle: "Diploma in Advanced Computing",
           subTitleEnd: none,
           content: [
             Passed in A grade

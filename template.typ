@@ -26,7 +26,7 @@
   body) = {
 
   let backgroundTitle(content) = {
-    align(center, box(fill: theme, text(white, size: 1.25em, weight: "bold", upper(content)), width: 1fr, inset: 0.3em))
+    align(center, text(weight: "bold", size: 1.25em, upper(content)))
   }
 
   let secondaryTitle(content) = {
