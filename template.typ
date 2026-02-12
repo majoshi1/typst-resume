@@ -60,9 +60,15 @@
   ]
 
   let createLeftRight(left: [], right: none) = {
-    if (right == none) { 
+  // Skip entirely if both empty
+  if (left == [] and right == none) {
+    []
+  } else if (right == none) { 
       align(start, text(left))
-    } else {
+    } else if (left == []) {
+    // Only right side exists - align end without empty left span
+    align(end, right)
+  } else {
       grid(
         columns: (1fr, 1fr),
         align(start, text(left)),
@@ -81,23 +87,28 @@
 
   let parseSubSections(subSections) = {
     subSections.map(s => {
+    let hasTitle = s.title != none and s.title != ""
+    let hasTitleEnd = s.titleEnd != none and s.titleEnd != ""
+    let hasSubTitle = s.subTitle != none and s.subTitle != ""
+    let hasSubTitleEnd = s.subTitleEnd != none and s.subTitleEnd != ""
+
       [
+      #if hasTitle or hasTitleEnd [
         #createLeftRight(
-          left: secondaryTitle(s.title),
-          right: if s.titleEnd != none { 
-            italicColorTitle(s.titleEnd)
-          }
+          left: if hasTitle { secondaryTitle(s.title) } else { [] },
+          right: if hasTitleEnd { italicColorTitle(s.titleEnd) } else { none }
         )
-        #if s.subTitle != none or s.subTitleEnd != none [
-          #text(
-            top-edge: 0.2em,
-            createLeftRight(
-              left: italicColorTitle(s.subTitle),
-              right: s.subTitleEnd
-            ),
-          )
-        ]
-        #s.content
+      ]
+      #if hasSubTitle or hasSubTitleEnd [
+        #text(
+          top-edge: 0.2em,
+          createLeftRight(
+            left: if hasSubTitle { italicColorTitle(s.subTitle) } else { [] },
+            right: if hasSubTitleEnd { s.subTitleEnd } else { none }
+          ),
+        )
+      ]
+      #s.content
       ]
     }).join()
   }

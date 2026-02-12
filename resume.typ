@@ -58,15 +58,15 @@
           subTitleEnd: none,
           content: [
             #list(
-              [*Technologies*: ReactJS, TypeScript, Jakarta EE (Java EE / J2EE), Spring Boot, Spring Cloud, REST / SOAP, Web services, Node-JS, etc.],
-              [*Languages*: Java, JavaScript, TypeScript, Shell script, etc.],
-              [*Tools*: Solid experience with VSCode, Eclipse, Gradle, Maven, Jenkins, JUnit. MS Office, AutoSys, Jenkins, Cypress, etc.],
-              [*Databases*: Strong knowledge of SQL, stored procedures (PL/SQL) and database fundamentals. Sybase, Oracle, DB2 etc.],
-              [*Operating Systems*: Windows, Linux (Redhat), Unix (Solaris, HP), etc.],
-              [*Environment*: Git, SVN, Kerberos, VMs / OpenShift Cloud, etc.],
-              [*WebTools*: Tomcat, Weblogic, IBM WebSphere, CA SiteMinder / Ping SSO, etc.],
-              [*AI*: Github Copilot, Llama, OpenAI, Anthropic, Moonshot etc.],
-              [*Big Data Tools*: Big-data analytics using Hadoop, Hive, Sqoop, Map-Reduce, UDFs, HDFS, Flume, HBase etc.],
+              [*Technologies*: ReactJS, TypeScript, Jakarta EE (Java EE / J2EE), Spring Boot, Spring Cloud, REST / SOAP, Web services, Node.JS],
+              [*Languages*: Java, JavaScript, TypeScript, Shell script],
+              [*Tools*: Solid experience with VSCode, Eclipse, Gradle, Maven, Jenkins, JUnit. MS Office, AutoSys, Jenkins, Cypress],
+              [*Databases*: Strong knowledge of SQL, stored procedures (PL/SQL) and database fundamentals. Sybase, Oracle, DB2],
+              [*Operating Systems*: Windows, Linux (Redhat), Unix (Solaris, HP)],
+              [*Environment*: Git, SVN, Kerberos, VMs / OpenShift Cloud],
+              [*WebTools*: Tomcat, Weblogic, IBM WebSphere, CA SiteMinder / Ping SSO],
+              [*AI*: Github Copilot, Llama, OpenAI, Anthropic, Moonshot],
+              [*Big Data Tools*: Big-data analytics using Hadoop, Hive, Sqoop, Map-Reduce, UDFs, HDFS, Flume, HBase],
             )
           ],
         ),
@@ -84,7 +84,7 @@
             #list(
               [Designed and implemented *complex systems* for Global Technology and Markets division, using Microservices architecture.],
               [Led the *end-to-end design, implementation, and validation* of workflows, partnering with multiple teams to ensure *correctness, scalability, and production rollout & support*.],
-              [*Technologies:* ReactJS, TypeScript, Angular / AngularJS, JavaScript, HTML, Java 7 / 8, Jakarta EE (J2EE), Scala, Spring Cloud / Spring Boot, Spring JPA / Data / JDBC / Security / LDAP / Thymeleaf, OpenShift Containers, JSON, Sybase, SQL,Linux, VSCode / Eclipse / IntelliJ, Jenkins, Tomcat, Shell Script, Oracle, Microsoft SQL Server / Sybase, DB2.]
+              [*Technologies:* ReactJS, TypeScript, Angular / AngularJS, JavaScript, HTML, Java 7 / 8, Jakarta EE (J2EE), Scala, Spring Cloud / Spring Boot, Spring JPA / Data / JDBC / Security / LDAP / Thymeleaf, OpenShift Containers, JSON, Sybase, SQL, Linux, VSCode / Eclipse / IntelliJ, Jenkins, Tomcat, Shell Script, Oracle, Microsoft SQL Server / Sybase, DB2.]
             )
           ],
         ),
@@ -105,7 +105,7 @@
         subSection(
           title: "Amravati University",
           titleEnd: "India",
-          subTitle: "Bachelor of Engineering, Electronics And Telecommuncations.",
+          subTitle: "Bachelor of Engineering, Electronics And Telecommunications.",
           subTitleEnd: none,
           content: [
             Passed in First Class
