@@ -39,10 +39,10 @@
           subTitleEnd: none,
           content: [
             #list(
-              [Seasoned developer with individual, team and lead excellence.],
-              [Built Complex, Secure, Resilient High Performance Distributed Systems.],
+              [Seasoned software developer with individual, team and lead excellence.],
+              [Built complex, secure, resilient high performance distributed systems.],
               [Expert in all phases of software development lifecycle (SDLC).],
-              [Worked in various business areas within financial services]
+              [Worked in various business areas within financial services.]
             )
           ],
         ),
@@ -60,13 +60,12 @@
             #list(
               [*Technologies*: ReactJS, TypeScript, Jakarta EE (Java EE / J2EE), Spring Boot, Spring Cloud, REST / SOAP, Web services, Node.JS],
               [*Languages*: Java, JavaScript, TypeScript, Shell script],
-              [*Tools*: Solid experience with VSCode, Eclipse, Gradle, Maven, Jenkins, JUnit. MS Office, AutoSys, Jenkins, Cypress],
               [*Databases*: Strong knowledge of SQL, stored procedures (PL/SQL) and database fundamentals. Sybase, Oracle, DB2],
-              [*Operating Systems*: Windows, Linux (Redhat), Unix (Solaris, HP)],
-              [*Environment*: Git, SVN, Kerberos, VMs / OpenShift Cloud],
-              [*WebTools*: Tomcat, Weblogic, IBM WebSphere, CA SiteMinder / Ping SSO],
-              [*AI*: Github Copilot, Llama, OpenAI, Anthropic, Moonshot],
-              [*Big Data Tools*: Big-data analytics using Hadoop, Hive, Sqoop, Map-Reduce, UDFs, HDFS, Flume, HBase],
+              [*Developer tools*: Solid experience with VSCode, Eclipse, Gradle, Maven, Jenkins, JUnit. MS Office, AutoSys, Jenkins, Cypress, Git, SVN, VMs / OpenShift Cloud],
+              [*Security*: SiteMinder, Ping SSO, Kerberos],
+              [*AI tools*: Github Copilot with models from OpenAI, Anthropic, Moonshot],
+              [*Big data tools*: Big-data analytics using Hadoop, Hive, Sqoop, Map-Reduce, UDFs, HDFS, Flume, HBase],
+              [*Operating systems*: Windows, Linux (Redhat), Unix (Solaris, HP)],
             )
           ],
         ),
@@ -82,9 +81,9 @@
           subTitleEnd: "(Dec 2015 – till date)",
           content: [
             #list(
-              [Designed and implemented *complex systems* for Global Technology and Markets division, using Microservices architecture.],
+              [Designed and implemented *complex systems* for *Global Technology* (retail banking) and Markets (trade settlements) divisions.],
               [Led the *end-to-end design, implementation, and validation* of workflows, partnering with multiple teams to ensure *correctness, scalability, and production rollout & support*.],
-              [*Technologies:* ReactJS, TypeScript, Angular / AngularJS, JavaScript, HTML, Java 7 / 8, Jakarta EE (J2EE), Scala, Spring Cloud / Spring Boot, Spring JPA / Data / JDBC / Security / LDAP / Thymeleaf, OpenShift Containers, JSON, Sybase, SQL, Linux, VSCode / Eclipse / IntelliJ, Jenkins, Tomcat, Shell Script, Oracle, Microsoft SQL Server / Sybase, DB2.]
+              [*Technologies:* ReactJS, TypeScript, JavaScript, HTML, Java, Jakarta EE, Spring Boot, Spring JPA / Data / JDBC / Security / LDAP / Thymeleaf, JSON, SQL, Linux, VSCode, Jenkins, Tomcat, Shell Script, Oracle.]
             )
           ],
         ),
