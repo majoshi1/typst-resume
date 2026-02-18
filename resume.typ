@@ -39,10 +39,9 @@
           subTitleEnd: none,
           content: [
             #list(
-              [Seasoned software developer with individual, team and lead excellence.],
-              [Built complex, secure, resilient high performance distributed systems.],
-              [Expert in all phases of software development lifecycle (SDLC).],
-              [Worked in various business areas within financial services.]
+              [Senior Software Engineer with 9+ years building distributed financial systems.],
+              [Expert in type-safe React + Spring Boot architectures.],
+              [Delivered end-to-end features for platforms serving millions of users.],
             )
           ],
         ),
@@ -58,14 +57,12 @@
           subTitleEnd: none,
           content: [
             #list(
-              [*Technologies*: ReactJS, TypeScript, Jakarta EE (Java EE / J2EE), Spring Boot, Spring Cloud, REST / SOAP, Web services, Node.JS],
-              [*Languages*: Java, JavaScript, TypeScript, Shell script],
-              [*Databases*: Strong knowledge of SQL, stored procedures (PL/SQL) and database fundamentals. Sybase, Oracle, DB2],
-              [*Developer tools*: Solid experience with VSCode, Eclipse, Gradle, Maven, Jenkins, JUnit. MS Office, AutoSys, Jenkins, Cypress, Git, SVN, VMs / OpenShift Cloud],
-              [*Security*: SiteMinder, Ping SSO, Kerberos],
-              [*AI tools*: Github Copilot with models from OpenAI, Anthropic, Moonshot],
-              [*Big data tools*: Big-data analytics using Hadoop, Hive, Sqoop, Map-Reduce, UDFs, HDFS, Flume, HBase],
-              [*Operating systems*: Windows, Linux (Redhat), Unix (Solaris, HP)],
+              [*Frontend*: TypeScript, React, Next.js, HTML/CSS, Sass],
+              [*Backend*: Java, Spring Boot, Node.js, REST APIs],
+              [*Databases*: Oracle, Redis, SQL optimization],
+              [*DevOps / Cloud*: Docker, Jenkins, OpenShift, Linux],
+              [*AI / Modern*: OpenAI API integration, GitHub Copilot workflows],
+              [*Security*: SSO (Ping, SiteMinder), Kerberos, Spring Security],
             )
           ],
         ),
@@ -82,8 +79,10 @@
           content: [
             #list(
               [Designed and implemented *complex systems* for *Global Technology* (retail banking) and Markets (trade settlements) divisions.],
-              [Led the *end-to-end design, implementation, and validation* of workflows, partnering with multiple teams to ensure *correctness, scalability, and production rollout & support*.],
-              [*Technologies:* ReactJS, TypeScript, JavaScript, HTML, Java, Jakarta EE, Spring Boot, Spring JPA / Data / JDBC / Security / LDAP / Thymeleaf, JSON, SQL, Linux, VSCode, Jenkins, Tomcat, Shell Script, Oracle.]
+              [Led the *design, implementation, and validation* of workflows, partnering with multiple teams to ensure *correctness, scalability, and production rollout & support*.],
+              [Shipped *end-to-end features* — from DB schema to UI polish — and *owned the full lifecycle*],
+              [Built *AI integration* for internal VS Code extension, *MCPs* and *chatbots*],
+              [Features deployed to *60+ million users*],
             )
           ],
         ),
